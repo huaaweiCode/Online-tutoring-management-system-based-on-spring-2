@@ -1,41 +1,79 @@
-# 基于spring的在线家教管理系统2
+# 基于spring的在线家教管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**家教2** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于spring的在线家教管理系统2拥有三种角色
 
 - 管理员：会员管理、教师管理、家教列表、发布家教需求、教师接单列表、辅导机构列表、试题列表等
 - 教师：登录注册、个人信息修改、查看预约记录
 - 学生：发布需求、我的订单、预约教员记录、个人信息修改、登录注册等
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：Spring
+
+前端技术：jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- maven项目：否
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录 注册
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026488.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![用户登录和注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026008.jpg)
 
-#### 参与贡献
+### 4.2 用户模块
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![用户-后端界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026813.jpg)
+
+![用户-家教订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026795.jpg)
+
+![用户-预约记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026616.jpg)
+
+### 4.3 教师模块
+
+![教师后端界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026422.jpg)
+
+### 4.4 管理员模块
+
+![管理员-会员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026778.jpg)
+
+![管理员-教师管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026792.jpg)
+
+![管理员-快速请家教列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121026879.jpg)
+
+![管理员-发布家教需求](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027046.jpg)
+
+![管理员-家教需求列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027840.jpg)
+
+![管理员-教师接单列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027914.jpg)
+
+![管理员-辅导机构列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027008.jpg)
+
+![管理员-试题列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121027747.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**家教2** ，获取完整版源码
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
